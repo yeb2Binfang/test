@@ -1,4 +1,6 @@
 
 public static void test(){
-  zafkasjfklakl
+  one
+    two
+    three
 }
